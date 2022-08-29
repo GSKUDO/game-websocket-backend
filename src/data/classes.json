@@ -1,0 +1,13 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Warrior",
+    "description": "Great Warrior",
+    "image": "./data/images/classes/warrior.jpg",
+    "stats": {
+      "maxHP": 100,
+      "attack": 10
+    },
+    "skills": [1]
+  }
+}
